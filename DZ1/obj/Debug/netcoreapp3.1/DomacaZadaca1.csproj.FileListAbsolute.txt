@@ -1,0 +1,13 @@
+C:\Users\Patrik\source\repos\DomacaZadaca1\DomacaZadaca1\bin\Debug\netcoreapp3.1\DomacaZadaca1.exe
+C:\Users\Patrik\source\repos\DomacaZadaca1\DomacaZadaca1\bin\Debug\netcoreapp3.1\DomacaZadaca1.deps.json
+C:\Users\Patrik\source\repos\DomacaZadaca1\DomacaZadaca1\bin\Debug\netcoreapp3.1\DomacaZadaca1.runtimeconfig.json
+C:\Users\Patrik\source\repos\DomacaZadaca1\DomacaZadaca1\bin\Debug\netcoreapp3.1\DomacaZadaca1.runtimeconfig.dev.json
+C:\Users\Patrik\source\repos\DomacaZadaca1\DomacaZadaca1\bin\Debug\netcoreapp3.1\DomacaZadaca1.dll
+C:\Users\Patrik\source\repos\DomacaZadaca1\DomacaZadaca1\bin\Debug\netcoreapp3.1\DomacaZadaca1.pdb
+C:\Users\Patrik\source\repos\DomacaZadaca1\DomacaZadaca1\obj\Debug\netcoreapp3.1\DomacaZadaca1.csprojAssemblyReference.cache
+C:\Users\Patrik\source\repos\DomacaZadaca1\DomacaZadaca1\obj\Debug\netcoreapp3.1\DomacaZadaca1.csproj.CoreCompileInputs.cache
+C:\Users\Patrik\source\repos\DomacaZadaca1\DomacaZadaca1\obj\Debug\netcoreapp3.1\DomacaZadaca1.AssemblyInfoInputs.cache
+C:\Users\Patrik\source\repos\DomacaZadaca1\DomacaZadaca1\obj\Debug\netcoreapp3.1\DomacaZadaca1.AssemblyInfo.cs
+C:\Users\Patrik\source\repos\DomacaZadaca1\DomacaZadaca1\obj\Debug\netcoreapp3.1\DomacaZadaca1.dll
+C:\Users\Patrik\source\repos\DomacaZadaca1\DomacaZadaca1\obj\Debug\netcoreapp3.1\DomacaZadaca1.pdb
+C:\Users\Patrik\source\repos\DomacaZadaca1\DomacaZadaca1\obj\Debug\netcoreapp3.1\DomacaZadaca1.genruntimeconfig.cache
